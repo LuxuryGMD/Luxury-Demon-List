@@ -1,0 +1,21 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": ["Ggb0y"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=FWSPVmFkOd8",
+    "percentToQualify": 52,
+    "nlw": "Beginner",
+    "worst_fail": "77%",
+    "attempts": "70,118",
+    "date": "2/3/24",
+    "records": [
+         {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

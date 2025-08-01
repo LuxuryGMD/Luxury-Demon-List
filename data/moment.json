@@ -1,0 +1,21 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "Lexycat",
+    "creators": ["Stormfly, Lexycat, icedcave"],
+    "verifier": "Agelio",
+    "verification": "https://youtu.be/eeWNQKjJvkk",
+    "percentToQualify": "62",
+    "nlw": "Very Hard",
+    "worst_fail": "87%",
+    "attempts": "21,340",
+    "date": "6/18/24",
+    "records": [
+        {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

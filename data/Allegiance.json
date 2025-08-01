@@ -1,0 +1,21 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=VmSYwWy7Y48",
+    "percentToQualify": "62",
+    "nlw": "Beginner",
+    "worst_fail": "94% x3",
+    "attempts": "12,036",
+    "date": "7/4/24",
+    "records": [
+         {
+            "user": "foxxgod",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}

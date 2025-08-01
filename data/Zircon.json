@@ -1,0 +1,24 @@
+{
+    "id": 76821414,
+    "name": "Zircon",
+    "author": "DHaner",
+    "creators": ["DHaner"],
+    "verifier": "Agelio",
+    "verification": "https://www.youtube.com/watch?v=RpySr1Sd1Qw",
+    "percentToQualify": "100",
+    "nlw": "-",
+    "records": [
+        {
+            "user": "bastion2000.",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        },
+        {
+            "user": "foxxgod",
+            "link": "https://www.youtube.com/watch?v=UgRHBAi4xVg",
+            "percent": 100,
+            "hz": 69
+        }
+    ]
+}
